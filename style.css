@@ -90,3 +90,25 @@ body {
   font-weight: bold;
   color: #1f4d36;
 }
+
+
+.contact-section {
+  padding: 36px 20px;
+  text-align: center;
+  background-color: #f3efe6;
+}
+
+.contact-section h2 {
+  margin-top: 0;
+}
+
+.site-footer {
+  background-color: #1f4d36;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 20px;
+}
+
+.site-footer p {
+  margin: 0;
+}
